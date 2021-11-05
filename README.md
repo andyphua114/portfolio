@@ -19,7 +19,7 @@ We'll compare these two types of posts to determine the following:
 #### [Project 3: eBay Car Sales Analysis](https://github.com/andyphua114/learning-projects/blob/main/Car_Sales.ipynb)
 The aim of this project is to clean the data and analyze the included used car listings. We'll work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
-#### [Project 4: eBay Car Sales Analysis](https://github.com/andyphua114/learning-projects/blob/main/Heavy_Traffic.ipynb)
+#### [Project 4: Heavy Traffic Analysis](https://github.com/andyphua114/learning-projects/blob/main/Heavy_Traffic.ipynb)
 We're going to analyze a dataset about the westbound traffic on the I-94 Interstate highway.
 
 The goal of our analysis is to determine a few indicators of heavy traffic on I-94. These indicators can be weather type, time of the day, time of the week, etc. For instance, we may find out that the traffic is usually heavier in the summer or when it snows.
