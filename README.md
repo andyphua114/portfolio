@@ -17,9 +17,7 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 
 For this project, we're specifically interested in posts with titles that begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question or Show HN posts to show the Hacker News community a project, product, or just something interesting.
 
-We'll compare these two types of posts to determine the following:
-* Do Ask HN or Show HN receive more comments on average?
-* Do posts created at a certain time receive more comments on average?
+We'll compare these two types of posts to determine the following: (!) do Ask HN or Show HN receive more comments on average; and (2) do posts created at a certain time receive more comments on average?
 
 Through this project, I implemented the following:
 * Extracting the chosen data for analysis
