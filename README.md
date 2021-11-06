@@ -39,7 +39,7 @@ Through this project, I implemented the following:
 * Data cleaning and exploration using pandas
 * Conduct exploratory data visualisation using matplotlib and seaborn
 
-#### [Project 4: Euro Exchange Rate Analysis](https://github.com/andyphua114/learning-projects/blob/main/Exchange_Rates.ipynb)
+#### [Project 5: Euro Exchange Rate Analysis](https://github.com/andyphua114/learning-projects/blob/main/Exchange_Rates.ipynb)
 The dataset we will use describes Euro daily exchange rates between 1999 and 2021. We will use this dataset to practise explanatory data visualisation.
 
 Through this project, I implemented the following:
