@@ -45,3 +45,6 @@ The dataset we will use describes Euro daily exchange rates between 1999 and 202
 Through this project, I implemented the following:
 * Data cleaning and exploration using pandas
 * Conduct explanatory data visualisation using matplotlib
+
+#### [Project 8: Basic SQL](https://github.com/andyphua114/learning-projects/blob/main/world_factbook_sql.ipynb)
+Simple project to demonstrate basic SQL.
