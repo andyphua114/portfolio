@@ -48,3 +48,7 @@ Through this project, I implemented the following:
 
 #### [Project 8: Basic SQL](https://github.com/andyphua114/learning-projects/blob/main/world_factbook_sql.ipynb)
 Simple project to demonstrate basic SQL.
+
+
+#### [Project 9: Intermdiate SQL](https://github.com/andyphua114/learning-projects/blob/main/business_questions_sql.ipynb)
+Simple project to demonstrate intermdiate SQL.
