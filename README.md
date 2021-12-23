@@ -49,6 +49,15 @@ Through this project, I implemented the following:
 #### [Project 8: Basic SQL](https://github.com/andyphua114/learning-projects/blob/main/world_factbook_sql.ipynb)
 Simple project to demonstrate basic SQL.
 
-
 #### [Project 9: Intermdiate SQL](https://github.com/andyphua114/learning-projects/blob/main/business_questions_sql.ipynb)
 Simple project to demonstrate intermdiate SQL.
+
+#### [Project 10: Basic Data Analysis in Business](https://github.com/andyphua114/learning-projects/blob/main/pop_ds_qns.ipynb)
+In this project, we imagine we working for a company that creates data science content, be it books, online articles, videos or interactive text-based platforms. We are tasked with figuring out what is best content to write about.
+
+To begin, we referenced website like Stack Exchange. We will focus on Data Science Stack Exchange (DSSE) as it is a data science dedicated site (contrarily to the others), coupled with it having a lot of unanswered questions.
+
+Through this project, I implemented the following:
+* Understanding the useful and relevant information on the website that could aid in analysis
+* Data transformation and exploration using pandas
+* Conduct explanatory data visualisation using matplotlib
