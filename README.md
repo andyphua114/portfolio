@@ -61,3 +61,13 @@ Through this project, I implemented the following:
 * Understanding the useful and relevant information on the website that could aid in analysis
 * Data transformation and exploration using pandas
 * Conduct explanatory data visualisation using matplotlib
+
+#### [Project 11: Investigating Fandango Movie Ratings](https://github.com/andyphua114/learning-projects/blob/main/movie_ratings.ipynb)
+In this project, we will analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis.
+
+In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest.
+
+Through this project, I implemented the following:
+* Data transformation and exploration using pandas
+* Conduct explanatory data visualisation using matplotlib
+* Analysing the data with basic statistical methods
