@@ -72,6 +72,8 @@ Through this project, I implemented the following:
 * Conduct explanatory data visualisation using matplotlib
 * Analysing the data with basic statistical methods
 
+## Section 2: Self-Initiated Projects
+
 #### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/learning-projects/blob/main/bwf_scrape.ipynb)
 In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
 
