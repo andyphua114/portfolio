@@ -80,3 +80,4 @@ To start off, I felt that the BWF official website offers some match data that c
 Through this project, I implemented the following:
 * Web scrape using BeautifulSoup and Selenium
 * Extract data for chosen athelete (Loh Kean Yew)
+* Export data to a csv file
