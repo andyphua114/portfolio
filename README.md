@@ -71,3 +71,12 @@ Through this project, I implemented the following:
 * Data transformation and exploration using pandas
 * Conduct explanatory data visualisation using matplotlib
 * Analysing the data with basic statistical methods
+
+#### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/learning-projects/blob/main/bwf_scrape.ipynb)
+In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
+
+To start off, I felt that the BWF official website offers some match data that could be useful. Since I have just learnt about web scrapping, I decided to code and web scrape Loh Kean Yew's playing data from the BWF website.
+
+Through this project, I implemented the following:
+* Web scrape using BeautifulSoup and Selenium
+* Extract data for chosen athelete (Loh Kean Yew)
