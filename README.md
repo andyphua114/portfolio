@@ -72,6 +72,15 @@ Through this project, I implemented the following:
 * Conduct explanatory data visualisation using matplotlib
 * Analysing the data with basic statistical methods
 
+#### [Project 12: Finding the Best Markets to Advertise In](https://github.com/andyphua114/learning-projects/blob/main/best_markets.ipynb)
+In this project, we assume that we are working for an an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we had like to invest some money in advertisement. Our goal in this project is to find out the two best markets to advertise our product in.
+
+Through this project, I implemented the following:
+* Data transformation and exploration using pandas
+* Conduct explanatory data visualisation using matplotlib/seaborn
+* Determining and removing outliers data
+* Make use of basic statistics for decisions
+
 ## Section 2: Self-Initiated Projects
 
 #### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/learning-projects/blob/main/bwf_scrape.ipynb)
