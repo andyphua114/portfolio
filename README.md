@@ -97,7 +97,7 @@ Through this project, I implemented the following:
 
 ## Section 2: Self-Initiated Projects
 
-#### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/learning-projects/blob/main/bwf_scrape.ipynb)
+#### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/self-projects/blob/main/bwf_scrape.ipynb)
 In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
 
 To start off, I felt that the BWF official website offers some match data that could be useful. Since I have just learnt about web scrapping, I decided to code and web scrape Loh Kean Yew's playing data from the BWF website.
@@ -107,7 +107,7 @@ Through this project, I implemented the following:
 * Extract data for chosen athelete (Loh Kean Yew)
 * Export data to a csv file
 
-#### [Project Loh Kean Yew](https://github.com/andyphua114/learning-projects/blob/main/bwf_lky.ipynb)
+#### [Project Loh Kean Yew](https://github.com/andyphua114/self-projects/blob/main/bwf_lky.ipynb)
 In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
 
 Building off the data web scrapped from BWF website, I did a simple analysis on Loh Kean Yew's performance.
