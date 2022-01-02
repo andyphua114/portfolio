@@ -46,6 +46,20 @@ Through this project, I implemented the following:
 * Data cleaning and exploration using pandas
 * Conduct explanatory data visualisation using matplotlib
 
+#### [Project 6: Clean and Analyse Employee Exit Surveys](https://github.com/andyphua114/learning-projects/blob/main/Employee_Exit.ipynb)
+In this project, we played the role of data analyst and pretend our stakeholders want to know the following:
+* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+* Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
+Through this project, I implemented the following:
+* Data cleaning and exploration using pandas
+
+#### [Project 7: Analysing Star Wars Survey Results](https://github.com/andyphua114/learning-projects/blob/main/Star_Wars_Survey.ipynb)
+In this project, the team collected data to address question if "the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch". To do this, they surveyed Star Wars fans using the online tool SurveyMonkey.
+
+Through this project, I implemented the following:
+* Data cleaning and exploration using pandas
+
 #### [Project 8: Basic SQL](https://github.com/andyphua114/learning-projects/blob/main/world_factbook_sql.ipynb)
 Simple project to demonstrate basic SQL.
 
