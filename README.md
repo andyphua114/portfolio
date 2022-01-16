@@ -96,7 +96,7 @@ Through this project, I implemented the following:
 * Make use of basic statistics for decisions
 
 #### [Project 13: Predicting Car Prices](https://github.com/andyphua114/learning-projects/blob/main/predict_car_prices.ipynb)
-In this project, we praticed a basic machine learning workflow and make use of the k-nearest neighbors algorithm to predict a car's market price using its attributes.
+In this project, we practised a basic machine learning workflow and make use of the k-nearest neighbors algorithm to predict a car's market price using its attributes.
 
 Through this project, I implemented the following:
 * Using a Univariate Model
