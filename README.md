@@ -95,6 +95,14 @@ Through this project, I implemented the following:
 * Determining and removing outliers data
 * Make use of basic statistics for decisions
 
+#### [Project 13: Predicting Car Prices](https://github.com/andyphua114/learning-projects/blob/main/predict_car_prices.ipynb)
+In this project, we praticed a basic machine learning workflow and make use of the k-nearest neighbors algorithm to predict a car's market price using its attributes.
+
+Through this project, I implemented the following:
+* Using a Univariate Model
+* Using a Multivariate Model
+* Hyperparamter Tuning
+
 ## Section 2: Self-Initiated Projects
 
 #### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/self-projects/blob/main/bwf_scrape.ipynb)
