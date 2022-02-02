@@ -101,7 +101,22 @@ In this project, we practised a basic machine learning workflow and make use of 
 Through this project, I implemented the following:
 * Using a Univariate Model
 * Using a Multivariate Model
-* Hyperparamter Tuning
+* Hyperparameter Tuning
+
+#### [Project 14: Predicting House Sales](https://github.com/andyphua114/learning-projects/blob/main/predict_house_sales.ipynb)
+In this project, we explored ways to improve the machine learning models using housing data for the city of Ames, Iowa, United States from 2006 to 2010.
+
+Through this project, I implemented the following:
+* Basic feature engineering and transformation of data
+* Simple linear regression model
+
+#### [Project 15: Predicting Bike Rentals](https://github.com/andyphua114/learning-projects/blob/main/predict_bike_rentals.ipynb)
+In this project, we tried to predict the total number of bikes people rented in a given hour.
+
+Through this project, I implemented the following:
+* Analysing the Data
+* Simple Feature Engineering
+* Build and compare various models
 
 ## Section 2: Self-Initiated Projects
 
