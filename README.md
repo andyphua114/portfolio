@@ -1,7 +1,42 @@
 # Andy's Portfolio
 This is where I host some of my data analytics projects.
 
-## Section 1: My learning journey through Dataquest.
+## Section 1: Competition/Self-Initiated Projects
+
+#### [AI200 Capstone Project: Human or Robot?](https://github.com/andyphua114/self-projects/blob/main/Capstone_Project_Final.ipynb)
+This Prediction Challenge is modelled after the 2015 Facebook Recruitment Challenge, a prediction competition jointly held by Facebook and Kaggle.
+
+In this competition, we are chasing down robots for an online auction site. Human bidders on the site are becoming increasingly frustrated with their inability to win auctions vs. their software-controlled counterparts. As a result, usage from the site's core customer base is plummeting.
+
+In order to rebuild customer happiness, the site owners need to eliminate computer generated bidding from their auctions. Their attempt at building a model to identify these bids using behavioral data, including bid frequency over short periods of time, has proven insufficient.
+
+The goal of this competition is to identify online auction bids that are placed by "robots", helping the site owners easily flag these users for removal from their site to prevent unfair auction activity.
+
+Through this project, I implemented the following:
+* More than 70 features created via feature engineering
+* Hyperparameters tuning for Random Forest model
+* Achieved a public score of 0.90561 and private score of 0.89190.
+
+#### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/self-projects/blob/main/bwf_scrape.ipynb)
+In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
+
+To start off, I felt that the BWF official website offers some match data that could be useful. Since I have just learnt about web scrapping, I decided to code and web scrape Loh Kean Yew's playing data from the BWF website.
+
+Through this project, I implemented the following:
+* Web scrape using BeautifulSoup and Selenium
+* Extract data for chosen athelete (Loh Kean Yew)
+* Export data to a csv file
+
+#### [Project Loh Kean Yew](https://github.com/andyphua114/self-projects/blob/main/bwf_lky.ipynb)
+In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
+
+Building off the data web scrapped from BWF website, I did a simple analysis on Loh Kean Yew's performance.
+
+Through this project, I implemented the following:
+* Data wrangling
+* Data visualisation
+
+## Section 2: My learning journey through Dataquest.
 
 #### [Project 1: Mobile Apps Analysis](https://github.com/andyphua114/learning-projects/blob/main/Mobile_App.ipynb)
 This project will analyse data to help our developers understand what type of apps are likely to attract more users so as to increase of main source of revenue through in-app ads.
@@ -117,24 +152,3 @@ Through this project, I implemented the following:
 * Analysing the Data
 * Simple Feature Engineering
 * Build and compare various models
-
-## Section 2: Self-Initiated Projects
-
-#### [Project Web Scrape: From Badminton World Federation Website](https://github.com/andyphua114/self-projects/blob/main/bwf_scrape.ipynb)
-In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
-
-To start off, I felt that the BWF official website offers some match data that could be useful. Since I have just learnt about web scrapping, I decided to code and web scrape Loh Kean Yew's playing data from the BWF website.
-
-Through this project, I implemented the following:
-* Web scrape using BeautifulSoup and Selenium
-* Extract data for chosen athelete (Loh Kean Yew)
-* Export data to a csv file
-
-#### [Project Loh Kean Yew](https://github.com/andyphua114/self-projects/blob/main/bwf_lky.ipynb)
-In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
-
-Building off the data web scrapped from BWF website, I did a simple analysis on Loh Kean Yew's performance.
-
-Through this project, I implemented the following:
-* Data wrangling
-* Data visualisation
